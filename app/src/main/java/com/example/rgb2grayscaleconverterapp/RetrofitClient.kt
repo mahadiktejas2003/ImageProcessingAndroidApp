@@ -6,7 +6,7 @@ import retrofit2.converter.scalars.ScalarsConverterFactory
 import okhttp3.OkHttpClient
 
 object RetrofitClient {
-    private const val BASE_URL = "https://3ow99rdgna.execute-api.ap-south-1.amazonaws.com/Dev/" // Replace with your API URL
+    private const val BASE_URL = "Replace with your API URL" // Replace with your API URL
 
     private val client = OkHttpClient.Builder().build()
 
