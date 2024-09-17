@@ -10,8 +10,6 @@ It uses the Image processing API deployed on AWS API Gateway and Lambda function
 
 Here are some screenshots of the application in action:
 
-### Image Selection and Grayscale Conversion
-
 <div>
   <img src="images/1.jpg" alt="Image Selection" width="30%" style="display:inline; margin-right:15px;">
   <img src="images/2.jpg" alt="Grayscale Conversion" width="30%" style="display:inline;">
