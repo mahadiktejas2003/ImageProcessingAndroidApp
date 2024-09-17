@@ -22,6 +22,6 @@ Here are some screenshots of the application and the API in action:
 </div>
 
 <div>
-  <img src="images/3.jpg" alt="API Screenshot 1" width="50%" style="display:inline; margin-right:15px;">
-  <img src="images/4.jpg" alt="API Screenshot 2" width="50%" style="display:inline;">
+  <img src="images/3.jpg" alt="API Screenshot 1" width="70%" style="display:inline; margin-right:15px;">
+  <img src="images/4.jpg" alt="API Screenshot 2" width="70%" style="display:inline;">
 </div>
