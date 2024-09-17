@@ -14,29 +14,9 @@ The Image Processing Android App is a mobile application designed to process ima
 
 Here are some screenshots of the application in action:
 
-### 1. Image Selection
+### Image Selection and Grayscale Conversion
 
-![Image 1](images/1.jpg)
-
-### 2. Grayscale Conversion
-
-![Image 2](images/2.jpg)
-
-## Getting Started
-
-To get started with this project, follow these steps:
-
-### Prerequisites
-
-Ensure you have the following installed:
-- Android Studio
-- Kotlin SDK
-- Jetpack Compose
-
-### Clone the Repository
-
-Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/mahadiktejas2003/ImageProcessingAndroidApp.git
-cd ImageProcessingAndroidApp
+<div>
+  <img src="images/1.jpg" alt="Image Selection" width="45%" style="display:inline; margin-right:10px;">
+  <img src="images/2.jpg" alt="Grayscale Conversion" width="45%" style="display:inline;">
+</div>
