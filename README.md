@@ -1,5 +1,7 @@
 # Image Processing Android App
 
+## Overview
+
 The Image Processing Android App is a mobile application designed to process images by converting them to grayscale using a backend API. This app leverages Jetpack Compose for UI development and integrates with an image processing API hosted on AWS.
 
 ## Features
@@ -15,6 +17,6 @@ Here are some screenshots of the application in action:
 ### Image Selection and Grayscale Conversion
 
 <div>
-  <img src="images/1.jpg" alt="Image Selection" width="40%" style="display:inline; margin-right:20px;">
-  <img src="images/2.jpg" alt="Grayscale Conversion" width="40%" style="display:inline;">
+  <img src="images/1.jpg" alt="Image Selection" width="30%" style="display:inline; margin-right:15px;">
+  <img src="images/2.jpg" alt="Grayscale Conversion" width="30%" style="display:inline;">
 </div>
