@@ -21,6 +21,7 @@ Here are some screenshots of the application and the API in action:
   <img src="images/2.jpg" alt="Grayscale Conversion" width="30%" style="display:inline;">
 </div>
 
+## API in working
 <div>
   <img src="images/3.jpg" alt="API Screenshot 1" width="70%" style="display:inline; margin-right:15px;">
   <img src="images/4.jpg" alt="API Screenshot 2" width="70%" style="display:inline;">
