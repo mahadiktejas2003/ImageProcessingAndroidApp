@@ -44,7 +44,7 @@ class ImageProcessingViewModel(application: Application) : AndroidViewModel(appl
             val requestBody = RequestBody.create("image/png".toMediaTypeOrNull(), byteArrayOutputStream.toByteArray())
 
             val request = Request.Builder()
-                .url("https://3ow99rdgna.execute-api.ap-south-1.amazonaws.com/Dev")
+                .url("Enter Invoke URL to the API")
                 .post(requestBody)
                 .build()
 
